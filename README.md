@@ -85,22 +85,21 @@ Power BI Dashboard
 # 📊 Dashboard Preview
 
 ## Dashboard 1 – Executive Overview
+<img width="1366" height="768" alt="Screenshot (1007)" src="https://github.com/user-attachments/assets/0f752cfd-78fe-42ea-a7a2-7548bb1c3af1" />
 
-📷 Add Screenshot Here
 
----
+
 
 ## Dashboard 2 – Feature & Model Analysis
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/54b9f3c1-094b-4208-b198-ee38a1820cc1" />
 
-📷 Add Screenshot Here
 
----
 
 ## Dashboard 3 – Forecast Comparison
+<img width="1366" height="768" alt="Screenshot (1009)" src="https://github.com/user-attachments/assets/c013836b-6182-4f73-95e4-b5fd6a18ead3" />
 
-📷 Add Screenshot Here
+<img width="1366" height="768" alt="Screenshot (1010)" src="https://github.com/user-attachments/assets/b679e992-5f85-4ed8-b160-788ed729b152" />
 
----
 
 # ✨ Key Features
 
