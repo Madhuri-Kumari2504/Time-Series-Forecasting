@@ -290,7 +290,7 @@ https://your-video-link
 
 Machine Learning | Data Science | Business Intelligence
 
-📧 Email: *your-email@example.com*
+📧 Email: madhuri25042007@gmail.com
 
 🔗 GitHub
 
