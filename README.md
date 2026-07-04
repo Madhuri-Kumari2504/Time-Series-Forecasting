@@ -20,8 +20,8 @@
 
 # 🎥 Project Demo
 
-> 📹 **Demo Video:**  
-> **👉 Add your video link here**
+> https://www.loom.com/share/fb3f3b8aace241cfa92ecae380d5a266 
+>
 >
 > https://your-demo-video-link
 
@@ -259,15 +259,6 @@ dynamic_ensemble.pkl
 ```
 
 ---
-
-# 📹 Demo Video
-
-Replace the link below with your recorded project walkthrough.
-
-**Video Link**
-
-https://your-video-link
-
 ---
 
 # 📚 Future Improvements
