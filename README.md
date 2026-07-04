@@ -22,8 +22,8 @@
 
 > https://www.loom.com/share/fb3f3b8aace241cfa92ecae380d5a266 
 >
->
-> https://your-demo-video-link
+> 
+> 
 
 ---
 
